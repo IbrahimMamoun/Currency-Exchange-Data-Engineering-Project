@@ -34,13 +34,12 @@ The goal of this project is to demonstrate an end-to-end data pipeline, relation
 - Monthly average exchange rates
 - Exchange rate changes using the SQL `LAG()` function
 
-## Project Files
-- `ETL Currency rates.ipynb` — Jupyter Notebook containing the Python ETL pipeline.
-- `ETL Currency rates.py` — Standalone Python script for the ETL pipeline.
-- SQL database creation script — Creates the database and tables.
-- SQL analysis queries — Contains analytical SQL queries.
-- Power BI report (`.pbix`) — Interactive dashboard.
-- Dashboard screenshot — Preview of the final dashboard.
+## Project Structure
+- `Dataset/` — Project dataset files.
+- `ETL Architecture/` — ETL pipeline architecture documentation.
+- `Python/` — Python ETL script and Jupyter Notebook.
+- `SQL/` — Database creation scripts and analytical queries.
+- `Power BI Dashboard/` — Power BI report and dashboard screenshots.
 
 ## Requirements
 - Python 3.x
