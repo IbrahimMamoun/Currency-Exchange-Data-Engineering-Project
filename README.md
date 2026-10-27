@@ -65,3 +65,7 @@ The goal of this project is to demonstrate an end-to-end data pipeline, relation
 
 ## Data Source
 [Frankfurter API](https://api.frankfurter.dev/)
+
+
+<img width="1920" height="1080" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/35a3ed3b-3546-4e24-80cd-bd843bb1cdb3" />
+
